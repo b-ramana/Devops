@@ -1,8 +1,8 @@
-import system;
 
 public class sample
 {
-public static void Main(String[] args)
+public static void main(String[] args)
 {
- system.out.println("Hello User..! welcome to Java");
+ System.out.println("Hello User..! welcome to Java");
+}
 }
